@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+.box{
+    border: 2px solid rgb(173, 207, 159);
+    background-color: rgb(118, 186, 153);
+    width: 800px;
+    height: 400px;
+    position: absolute;
+    top: 50px;
+    left: 400px;
+    padding: 25px;
+}
+
+.mul{
+    color: ;
+    background-color: rgb(206, 216, 158);
+    border-radius: 5px;
+    position: absolute;
+    top: 155px;
+    cursor: pointer;
+}
+
+.first>input{
+    border-radius: 5px;
+    text-align: right;
+}
+
+.second{
+    position: absolute;
+    padding-top: 10px;
+}
+
+.second>input{
+    margin-left: -10px;
+    border-radius: 5px
+ 
+}
+
+.div{
+    color: ;
+    background-color: rgb(255, 220, 174);
+    border-radius: 5px;
+    position: absolute;
+    top: 155px;
+    left: 200px;
+    cursor: pointer;
+}
+
+p{
+    position: absolute;
+    top: 210px;
+}
